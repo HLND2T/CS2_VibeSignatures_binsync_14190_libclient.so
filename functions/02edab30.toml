@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:28.445776Z
+addr = 0x2edab30
+size = 0x16e
+name = "CNetworkSerializerBindingBuildFilter_GetFieldPriority"
+type = "long long"
+
+[header]
+name = "CNetworkSerializerBindingBuildFilter_GetFieldPriority"
+addr = 0x2edab30
+type = "long long"
+
+[header.args]

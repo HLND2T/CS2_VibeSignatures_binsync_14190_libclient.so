@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:28.445769Z
+addr = 0x1b19b30
+size = 0xc19
+name = "ClientModeCSNormal_Update"
+type = "long long"
+
+[header]
+name = "ClientModeCSNormal_Update"
+addr = 0x1b19b30
+type = "long long"
+
+[header.args]

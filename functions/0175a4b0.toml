@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:28.445706Z
+addr = 0x175a4b0
+size = 0x16a
+name = "CLoopModeGame_LoopShutdown"
+type = "void"
+
+[header]
+name = "CLoopModeGame_LoopShutdown"
+addr = 0x175a4b0
+type = "void"
+
+[header.args]

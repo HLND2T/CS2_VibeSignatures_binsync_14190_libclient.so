@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:51:28.445592Z
+addr = 0xcad500
+size = 0x1
+name = "IGameSystem_OnClientAdvanceNonRenderedFrame"
+
+[header]
+name = "IGameSystem_OnClientAdvanceNonRenderedFrame"
+addr = 0xcad500
+
+[header.args]

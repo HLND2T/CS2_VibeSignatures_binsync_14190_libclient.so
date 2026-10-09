@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:28.445637Z
+addr = 0x1637380
+size = 0xfd
+name = "CBasePlayerController_CheckForLocalPlayer"
+type = "long long"
+
+[header]
+name = "CBasePlayerController_CheckForLocalPlayer"
+addr = 0x1637380
+type = "long long"
+
+[header.args]

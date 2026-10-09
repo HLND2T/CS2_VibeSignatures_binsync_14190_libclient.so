@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:51:28.445631Z
+addr = 0xf67a60
+size = 0xd
+name = "CSpawnGroupMgrGameSystem_DoesGameSystemReallocate"
+
+[header]
+name = "CSpawnGroupMgrGameSystem_DoesGameSystemReallocate"
+addr = 0xf67a60
+
+[header.args]

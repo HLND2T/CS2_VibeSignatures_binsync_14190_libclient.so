@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:51:28.445594Z
+addr = 0xcad510
+size = 0x1
+name = "IGameSystem_OnGameFrameBoundary"
+
+[header]
+name = "IGameSystem_OnGameFrameBoundary"
+addr = 0xcad510
+
+[header.args]

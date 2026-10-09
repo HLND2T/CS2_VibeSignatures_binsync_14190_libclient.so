@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:42.957191Z
+addr = 0xf26060
+size = 0x1d9
+name = "IGameSystem_DestroyAllGameSystems"
+type = "long long"
+
+[header]
+name = "IGameSystem_DestroyAllGameSystems"
+addr = 0xf26060
+type = "long long"
+
+[header.args]
